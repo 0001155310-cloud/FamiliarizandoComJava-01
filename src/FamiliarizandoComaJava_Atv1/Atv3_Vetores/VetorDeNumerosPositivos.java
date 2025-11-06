@@ -30,5 +30,8 @@ public class VetorDeNumerosPositivos {
                 System.out.println((i + 1) + "° Número : " + numeros[i]);
             }
         }
+
+        System.out.println("\n======= Sistema Finalizado! ======");
+        sc.close();
     }
 }
